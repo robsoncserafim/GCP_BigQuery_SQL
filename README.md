@@ -1,4 +1,4 @@
-# Advanced SQL: Kaggle's Course
+# Advanced SQL: Kaggle's Course.
 ![Robson Serafim - Advanced SQL](https://user-images.githubusercontent.com/99512194/189778027-50c438c0-dcd6-4f50-89fb-09616efed0b2.png)
 
 
